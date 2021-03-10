@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">BrandonMartinezExamen</string>
+    <string name="title_activity_login2">LoginActivity2</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="text_ingresar">Ingresar</string>
+    <string name="text_registrarse">Registrarse</string>
+    <string name="txt_my_form">Encuesta :)</string>
+    <string name="hint_name">Escribe tu nombre</string>
+    <string name="hint_edad">¿Cuantos años tienes?</string>
+    <string name="hint_deportista">¿Cual es tu deportista favorito?</string>
+    <string name="text_MasHoras">Mas de 3 horas</string>
+    <string name="text_Menos">Menos de 3 horas</string>
+    <string name="text_Nada">Nada</string>
+    <string name="text_Fut">Futbol</string>
+    <string name="text_Basq">Basquet</string>
+    <string name="text_Ten">Tenis</string>
+    <string name="text_Enfermedad">¿hay algo que te impida hacer deporte?</string>
+    <string name="text_ok">Aceptar</string>
+    <string name="hint_inspiracion">¿Cual es tu inspiracion?</string>
+    <string name="hint_nombre">¿Cual es tu nombre?</string>
+    <string name="text_encuesta">Encuesta</string>
+    <string name="text_version">Examen</string>
+    <string name="text_list">Lista de encuestas</string>
+    <string name="text_eliminar">Eliminar</string>
+    <string name="text_detalles">Detalles</string>
+</resources>
